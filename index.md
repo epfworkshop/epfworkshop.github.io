@@ -3,11 +3,7 @@ layout: single
 title: "EPF Workshop"
 ---
 
-# EPF Workshop
-Exoplanet and Planet Formation Workshop
-
-- [Philosophy](/philosophy/)
-- [History](/history/)
+The Exoplanet and Planet Formation Workshop (EPF workshop) is a series of workshop held in the East Asia regions. See (philosophy page)[philosophy] for the concept of the workshop. The latest information will follow in this page.
 
 # News
 
