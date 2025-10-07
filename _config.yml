@@ -8,3 +8,5 @@ plugins:
 
 markdown: kramdown
 theme: null
+footer:
+  links: false
