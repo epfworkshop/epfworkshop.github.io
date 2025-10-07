@@ -6,4 +6,7 @@ plugins:
 
 markdown: kramdown
 theme: null
-locale: "ja-JP"
+
+header_pages:
+  - philosophy.md
+  - history.md
