@@ -1,3 +1,9 @@
 title: EPF
 description: Exoplanet and Planet Formation Workshop
-theme: minimal-mistakes-jekyll 
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+
+markdown: kramdown
+theme: null
+locale: "ja-JP"
