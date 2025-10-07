@@ -8,4 +8,4 @@ permalink: /history/
 
 ## Exoplanets & Planet Formation Workshop 2023 in Yanqing, Beijing, China
 
-## Planet Formation Workshop 2019
+## Planet Formation Workshop 2019, Mitaka, Tokyo, Japan
