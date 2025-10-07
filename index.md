@@ -10,5 +10,4 @@ The Exoplanet and Planet Formation Workshop (EPF workshop) is a series of worksh
 {% for post in site.posts limit:5 %}
 - **[{{ post.title }}]({{ post.url | relative_url }})**  
   <small>{{ post.date | date: "%Y-%m-%d" }}</small>  
-  #{{ post.excerpt }}
 {% endfor %}
