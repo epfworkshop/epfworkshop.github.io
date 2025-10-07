@@ -8,9 +8,3 @@ plugins:
 
 markdown: kramdown
 theme: null
-
-main:
-  - title: "Philosophy"
-    url: /philosophy/
-  - title: "History"
-    url: /history/
