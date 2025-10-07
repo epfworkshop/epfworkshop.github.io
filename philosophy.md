@@ -3,4 +3,6 @@ layout: single
 title: "Philosophy"
 permalink: /philosophy/
 ---
-内容を書く。
+## Philosophy of the EPF series
+
+To provide young researchers in East Asia, in particular, with opportunities to share knowledge, build networks, and present their work in the fields of planet formation and exoplanets.
