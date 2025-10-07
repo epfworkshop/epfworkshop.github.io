@@ -1,6 +1,6 @@
 ---
-layout: default    
-title: "EPF"
+layout: single
+title: "EPF Workshop"
 ---
 
 # EPF Workshop
