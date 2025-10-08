@@ -4,11 +4,11 @@ title: "History"
 permalink: /history/
 ---
 
-## Exoplanets & Planet Formation Workshop 2025 in Kunming, China
+## EPF Workshop 2025 in Kunming, China
 
 [workshop webpage](https://epf2025.github.io)
 
-## Exoplanets & Planet Formation Workshop 2023 in Yanqing, Beijing, China
+## EPF 2023 in Yanqing, Beijing, China
 
 [workshop webpage](https://epf2023.github.io)
 
