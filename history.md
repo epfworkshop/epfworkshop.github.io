@@ -6,6 +6,9 @@ permalink: /history/
 
 ## EPF workshop 2025 in Kunming, China
 
+Statistics: 16 invited talks, 37 contributed talks, and 24 poster presentations.
+The program is [here](assets/EPF2025_program.pdf).
+
 [workshop webpage](https://epf2025.github.io)
 
 ## EPF workshop 2023 in Yanqing, Beijing, China
