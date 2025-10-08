@@ -7,9 +7,7 @@ permalink: /concept/
 ## Philosophy
 *To provide young researchers in East Asia, in particular, with opportunities to share knowledge, build networks, and present their work in the fields of planet formation and exoplanets.*
 
-International workshops held within nearby regions and time zones are financially and logistically advantageous for young researchers.  
-It is also desirable to promote collaborative studies among geographically close institutions.  
-Strategically, the EPF series aims to strengthen scientific cohesion within East Asia, establishing it as a major axis of planetary science alongside the United States and Europe.
+International workshops held within nearby regions and time zones are financially and logistically advantageous for young researchers. It is also desirable to promote collaborative studies among geographically close institutions. Strategically, the EPF series aims to strengthen scientific cohesion within East Asia, establishing it as a major axis of planetary science alongside the United States and Europe.
 
 
 ## Talk Structure: three categories of talks:
