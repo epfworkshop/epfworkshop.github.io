@@ -4,11 +4,11 @@ title: "History"
 permalink: /history/
 ---
 
-## EPF Workshop 2025 in Kunming, China
+## EPF workshop 2025 in Kunming, China
 
 [workshop webpage](https://epf2025.github.io)
 
-## EPF 2023 in Yanqing, Beijing, China
+## EPF workshop 2023 in Yanqing, Beijing, China
 
 [workshop webpage](https://epf2023.github.io)
 
