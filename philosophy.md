@@ -7,6 +7,10 @@ permalink: /concept/
 ## Philosophy
 *To provide young researchers in East Asia, in particular, with opportunities to share knowledge, build networks, and present their work in the fields of planet formation and exoplanets.*
 
+International workshops held within nearby regions and time zones are financially and logistically advantageous for young researchers.  
+It is also desirable to promote collaborative studies among geographically close institutions.  
+Strategically, the EPF series aims to strengthen scientific cohesion within East Asia, establishing it as a major axis of planetary science alongside the United States and Europe.
+
 
 ## Talk Structure: three categories of talks:
 
@@ -21,4 +25,6 @@ Primarily for early-career researchers (e.g., postdocs and early-career faculty)
 No career stage limitations, but we prioritize students and early-career researchers in case the number of applications exceeds capacity.
 
 
-From the EPF 2027, we take the three-tier talk system. The Lecture talk is basically pedagogical reviews, which is beneficial for all the participants. The main topics should cover the major topics of the exoplanet and planet formation, but we also encourage a special topic at each EPF workshop to add their flavors by selecting interdisciplinary topics such as cosmochemistry, star formation, astrochemistry, and astrobiology.
+Starting from EPF 2027, the workshop will adopt this three-tier talk system.  
+The lecture talks will serve as pedagogical reviews beneficial to all participants.  
+The main topics will continue to cover the core areas of exoplanet and planet formation research, while each EPF workshop will also feature a special interdisciplinary theme to add unique perspectives — such as cosmochemistry, star formation, astrochemistry, or astrobiology.
