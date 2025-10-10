@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "EPF 2027"
+layout: single
+title: "Exoplanets and Planet Formation Workshop 2027"
 permalink: /2027/ 
 ---
 
